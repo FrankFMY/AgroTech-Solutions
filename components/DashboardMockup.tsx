@@ -53,7 +53,7 @@ export default function DashboardMockup() {
             <div className="w-3 h-3 rounded-full bg-green" />
           </div>
           <span className="text-xs text-gray ml-2">
-            dashboard.agrotech.kz
+            dashboard.agrotech.ru
           </span>
         </div>
 
@@ -63,7 +63,7 @@ export default function DashboardMockup() {
             {[
               { label: "Урожайность", value: "4.2 т/га", change: "+12%" },
               { label: "Техника", value: "87%", change: "онлайн" },
-              { label: "Прибыль", value: "₸2.4М", change: "+24%" },
+              { label: "Прибыль", value: "₽2.4М", change: "+24%" },
             ].map((stat, i) => (
               <motion.div
                 key={stat.label}

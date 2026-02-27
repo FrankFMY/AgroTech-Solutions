@@ -97,22 +97,22 @@ export default function Footer() {
             <h4 className="text-sm font-semibold mb-4">Контакты</h4>
             <div className="flex flex-col gap-2.5">
               <a
-                href="tel:+77172123456"
+                href="tel:+74951234567"
                 className="flex items-center gap-2 text-gray text-sm hover:text-green transition-colors"
               >
                 <Phone className="w-3.5 h-3.5" />
-                +7 (7172) 12-34-56
+                +7 (495) 123-45-67
               </a>
               <a
-                href="mailto:info@agrotech.kz"
+                href="mailto:info@agrotech.ru"
                 className="flex items-center gap-2 text-gray text-sm hover:text-green transition-colors"
               >
                 <Mail className="w-3.5 h-3.5" />
-                info@agrotech.kz
+                info@agrotech.ru
               </a>
               <div className="flex items-start gap-2 text-gray text-sm">
                 <MapPin className="w-3.5 h-3.5 mt-0.5 shrink-0" />
-                <span>г. Астана, БЦ «Talan Towers», 12 этаж</span>
+                <span>г. Москва, Пресненская наб., 12</span>
               </div>
             </div>
           </div>

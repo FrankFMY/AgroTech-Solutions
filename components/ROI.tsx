@@ -98,12 +98,12 @@ export default function ROI() {
             <p className="text-base sm:text-lg text-dark-soft leading-relaxed mb-6">
               За первый сезон с AgroTech мы сократили потери зерна на 15% и
               оптимизировали маршруты техники — экономия на ГСМ составила 4.2
-              млн тенге.
+              млн рублей.
             </p>
             <div>
-              <p className="text-sm font-semibold">Асхат Нурланов</p>
+              <p className="text-sm font-semibold">Дмитрий Соколов</p>
               <p className="text-xs text-gray">
-                Директор ТОО «Астана-Агро», 12 000 га
+                Директор ООО «Агро-Центр», 12 000 га
               </p>
             </div>
           </div>
