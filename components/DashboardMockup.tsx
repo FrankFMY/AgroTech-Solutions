@@ -59,7 +59,7 @@ export default function DashboardMockup() {
 
         <div className="p-4 sm:p-5">
           {/* Stats row */}
-          <div className="grid grid-cols-3 gap-3 mb-5">
+          <div className="grid grid-cols-3 gap-2 sm:gap-3 mb-5">
             {[
               { label: "Урожайность", value: "4.2 т/га", change: "+12%" },
               { label: "Техника", value: "87%", change: "онлайн" },
@@ -70,7 +70,7 @@ export default function DashboardMockup() {
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.8 + i * 0.15 }}
-                className="bg-bg rounded-xl p-3"
+                className="bg-bg rounded-xl p-2 sm:p-3"
               >
                 <p className="text-[10px] sm:text-xs text-gray mb-1">
                   {stat.label}
