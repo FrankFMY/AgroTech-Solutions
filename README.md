@@ -1,32 +1,45 @@
 # AgroTech Solutions
 
-Landing page for a digital agribusiness platform. Clean corporate design with green palette, data-driven sections, ROI calculator, and demo request form.
+Agribusiness SaaS interface study with ROI storytelling, product sections and a responsive demo-request flow.
 
-## Tech Stack
+[Live demo](https://agro-tech-solutions-eight.vercel.app)
 
-- **Next.js 16** — App Router, Turbopack
-- **Tailwind CSS v4** — `@theme` directive for custom design tokens
-- **Framer Motion** — Scroll-triggered animations
-- **Lucide React** — Icon system
+This is a fictional interface study created to demonstrate product presentation, responsive implementation, and polished frontend delivery. It does not represent a real client or operating company.
 
-## Getting Started
+## Focus
+
+- responsive agribusiness SaaS presentation
+- data-led product and ROI sections
+- demo-request interaction design
+- motion and mobile navigation
+
+## Stack
+
+- Next.js 16 and React 19;
+- TypeScript;
+- Tailwind CSS 4;
+- Framer Motion;
+- Lucide icons;
+- Vercel deployment.
+
+## Development
 
 ```bash
-npm install
-npm run dev
+bun install --frozen-lockfile
+bun run verify
+bun run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open `http://localhost:3000`.
 
-## Project Structure
+## Author
 
-```
-components/
-  Header.tsx      — Fixed navbar with mobile hamburger menu
-  Hero.tsx        — Hero section with platform introduction
-  Problems.tsx    — Industry pain points
-  Features.tsx    — Platform features overview
-  ROI.tsx         — Return on investment showcase
-  DemoForm.tsx    — Demo request form
-  Footer.tsx      — Site footer with navigation
-```
+**Artem Prianishnikov**
+
+- GitHub: https://github.com/FrankFMY
+- Website: https://frankfmy.com
+- Email: Pryanishnikovartem@gmail.com
+
+## License
+
+MIT © 2026 Artem Prianishnikov. See [LICENSE](LICENSE).
