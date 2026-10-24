@@ -1,10 +1,10 @@
 # AgroTech Solutions
 
-Agribusiness SaaS interface study with ROI storytelling, product sections and a responsive demo-request flow.
+A polished agribusiness SaaS landing page that pairs clear product storytelling with animated ROI sections and a responsive demo-request experience.
 
 [Live demo](https://agro-tech-solutions-eight.vercel.app)
 
-This is a fictional interface study created to demonstrate product presentation, responsive implementation, and polished frontend delivery. It does not represent a real client or operating company.
+Designed to make a complex product easy to explore: focused feature sections, animated data highlights and a clear path from the first impression to requesting a demo.
 
 ## Focus
 
